@@ -4,12 +4,7 @@
         "url": "https://github.com/jeroen/curl"
     },
     {
-        "package": "pdftools",
-        "url": "https://github.com/ropensci/pdftools"
-    },
-    {
-        "package": "stringdist",
-        "url": "https://github.com/markvanderloo/stringdist",
-        "subdir": "pkg"
+        "package": "ggbiplot",
+        "url": "https://github.com/vqv/ggbiplot"
     }
 ]
