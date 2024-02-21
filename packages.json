@@ -6,5 +6,10 @@
     {
         "package": "ggbiplot",
         "url": "https://github.com/vqv/ggbiplot"
+    },
+    {
+        "packages": "staRmanlyrics",
+        "url": "https://github.com/KUBDatalab/StaRmanlyrics"
+        
     }
 ]
