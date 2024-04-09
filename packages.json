@@ -11,5 +11,10 @@
         "packages": "StaRmanlyrics",
         "url": "https://github.com/KUBDatalab/StaRmanlyrics"
         
+    },
+    {
+        "packages": "KUBDatalab",
+        "url": "https://github.com/KUBDatalab/KUBDatalab"
+        
     }
 ]
