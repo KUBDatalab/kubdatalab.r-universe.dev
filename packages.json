@@ -16,5 +16,10 @@
         "packages": "KUBDatalab",
         "url": "https://github.com/KUBDatalab/KUBDatalab"
         
+    },
+    {
+        "packages": "KBAPIR",
+        "url": "https://github.com/KUBDatalab/KBAPI"
+        
     }
 ]
