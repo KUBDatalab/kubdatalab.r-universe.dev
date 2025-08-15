@@ -21,5 +21,9 @@
         "packages": "KBapi",
         "url": "https://github.com/KUBDatalab/KBAPI"
         
+    },
+    {
+        "packages": "FTutils",
+        "url": "https://github.com/KUBDatalab/FTutils"
     }
 ]
